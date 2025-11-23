@@ -4,7 +4,7 @@
 * Widya Wulandari       (234311056)
 
 
-*Decision Tree*
+**Decision Tree**
 
 Repository ini berisi seluruh file yang mencakup kerangka berpikir, presentasi, video penjelasan, dan kode studi kasus (Google Colab).
 1. Kerangka Berpikir Decision Tree - Flowchart yang menjelaskan alur pemikiran dan proses analisis menggunakan metode Decision Tree.
